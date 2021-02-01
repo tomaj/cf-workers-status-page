@@ -24,7 +24,7 @@ monitors:
 
   - id: predplatne.dennikn.sk
     name: Predplatne Dennikn.sk
-    url: 'https://predplatne.dennikn.sk'
+    url: 'https://predplatne.dennikn.sk/subscriptions/'
     method: GET
     expectStatus: 200
 
@@ -36,7 +36,7 @@ monitors:
 
   - id: crm.dennikn.sk
     name: Predplatne tyzden.sk
-    url: 'https://crm.dennikn.sk'
+    url: 'https://crm.tyzden.sk/sign/in/'
     method: GET
     expectStatus: 200
     
